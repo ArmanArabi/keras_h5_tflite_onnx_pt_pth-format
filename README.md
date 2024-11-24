@@ -31,8 +31,8 @@ Non-trainable params: 0
 | h5 | 1.95MB |  0.12 | 0.1 | 5.61 |
 | tflite | 0.64MB | 0.015 | 0.61 | 4.61 |
 | onnx | 0.64MB | 0.001 | 0.61 | 2.63
-| pt | MB | 
-| Pth | MB | 
+| pt | 2MB | 0.015 | 0.66 | 9.52 | 
+| Pth | 2MB | 0.029 | 0.66 | 10.23 | 
 
 
 ## License
